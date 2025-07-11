@@ -1,4 +1,4 @@
-# Hii I'm Tarun
+# Hii, I'm Tarun
 
 
 # 💻 Tech Stack:
